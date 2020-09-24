@@ -1,0 +1,9 @@
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\obj\Debug\ViewFile.csprojAssemblyReference.cache
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\obj\Debug\ViewFile.Form1.resources
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\obj\Debug\ViewFile.csproj.GenerateResource.cache
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\obj\Debug\ViewFile.csproj.CoreCompileInputs.cache
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\bin\Debug\ViewFile.exe
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\bin\Debug\ViewFile.pdb
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\obj\Debug\ViewFile.exe
+C:\Users\Zipliks\source\repos\Practice\2\Task_3\ViewFile\obj\Debug\ViewFile.pdb

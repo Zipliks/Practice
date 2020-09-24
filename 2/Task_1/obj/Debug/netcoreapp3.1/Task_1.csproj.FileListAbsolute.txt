@@ -1,0 +1,13 @@
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\obj\Debug\netcoreapp3.1\Task_1.csprojAssemblyReference.cache
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfoInputs.cache
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfo.cs
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\bin\Debug\netcoreapp3.1\Task_1.exe
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\bin\Debug\netcoreapp3.1\Task_1.deps.json
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.json
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.dev.json
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\bin\Debug\netcoreapp3.1\Task_1.dll
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\bin\Debug\netcoreapp3.1\Task_1.pdb
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\obj\Debug\netcoreapp3.1\Task_1.dll
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\obj\Debug\netcoreapp3.1\Task_1.pdb
+C:\Users\Zipliks\source\repos\Practice\2\Task_1\obj\Debug\netcoreapp3.1\Task_1.genruntimeconfig.cache
