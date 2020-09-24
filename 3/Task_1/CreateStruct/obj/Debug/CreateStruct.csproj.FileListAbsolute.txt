@@ -1,0 +1,6 @@
+C:\Users\Zipliks\source\repos\Practice\3\Task_1\CreateStruct\bin\Debug\CreateStruct.exe
+C:\Users\Zipliks\source\repos\Practice\3\Task_1\CreateStruct\bin\Debug\CreateStruct.pdb
+C:\Users\Zipliks\source\repos\Practice\3\Task_1\CreateStruct\obj\Debug\CreateStruct.csprojAssemblyReference.cache
+C:\Users\Zipliks\source\repos\Practice\3\Task_1\CreateStruct\obj\Debug\CreateStruct.csproj.CoreCompileInputs.cache
+C:\Users\Zipliks\source\repos\Practice\3\Task_1\CreateStruct\obj\Debug\CreateStruct.exe
+C:\Users\Zipliks\source\repos\Practice\3\Task_1\CreateStruct\obj\Debug\CreateStruct.pdb

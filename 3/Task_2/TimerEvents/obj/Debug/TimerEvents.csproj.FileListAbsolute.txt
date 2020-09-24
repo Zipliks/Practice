@@ -1,0 +1,9 @@
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Timer.resources
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+C:\Users\Zipliks\Desktop\Downloads\Chapter01\Lesson3-Person\Completed\Lesson3-exercise2-completed-cs\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
